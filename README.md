@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # my_app_qlnv
+=======
+# my_project_1
+>>>>>>> d8eec4e49a88a2621a7c4b97625c0de8fd86ba21
 
 A new Flutter project.
 

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: my_app_qlnv
+=======
+name: my_project_1
+>>>>>>> d8eec4e49a88a2621a7c4b97625c0de8fd86ba21
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

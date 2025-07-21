@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>My App Qlnv</string>
+=======
+	<string>My Project 1</string>
+>>>>>>> d8eec4e49a88a2621a7c4b97625c0de8fd86ba21
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>my_app_qlnv</string>
+=======
+	<string>my_project_1</string>
+>>>>>>> d8eec4e49a88a2621a7c4b97625c0de8fd86ba21
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
